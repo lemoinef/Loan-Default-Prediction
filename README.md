@@ -1,4 +1,4 @@
-# Project: Loan Default Prediction For Peer-To-Peer Lending
+# Project: Loan Default Prediction In Peer-To-Peer Lending
 
 ## Install
 
