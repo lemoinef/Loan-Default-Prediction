@@ -34,4 +34,4 @@ This will open the Jupyter Notebook software and project file in your web browse
 
 ## Data
 
-The dataset used in this project is included as `LoanStats3a.csv` and `RejectStatsA.csv`. This dataset is provided by Lending Club. 
+The dataset used in this project is included as `LoanStats3a.csv`. This dataset is provided by Lending Club. 
