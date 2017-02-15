@@ -7,7 +7,6 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
-- [seaborn](http://seaborn.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
@@ -34,4 +33,4 @@ This will open the Jupyter Notebook software and project file in your web browse
 
 ## Data
 
-The dataset used in this project is included as `LoanStats3a.csv`. This dataset is provided by Lending Club. 
+The dataset used in this project is included as `LoanStats3a.csv` and the data dictionary is `LCDataDictionary.xlsx`. This dataset is provided by Lending Club. 
